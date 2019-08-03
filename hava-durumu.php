@@ -5,7 +5,7 @@
     Description: Basic WordPress Weather Plugin 
     Version:     1.0
     Author:      Fatma Nur AVCI
-    Author URI:  https://twitter.com/ftmnuravc
+    Author URI:  https://www.linkedin.com/in/avcifatmanur/
     Text Domain: hava-durumu
     License:     GPL2
     License URI: http://www.gnu.org/licenses/gpl-2.0.html
